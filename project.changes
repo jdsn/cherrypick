@@ -1,4 +1,9 @@
 -------------------------------------------------------------------
+Wed Oct 29 17:34:34 UTC 2014 - jdsn@suse.de
+
+- fixing hash in sourcefile1
+
+-------------------------------------------------------------------
 Wed Oct 29 17:26:41 UTC 2014 - jdsn@suse.de
 
 - adding barbaz string to sourcefile2

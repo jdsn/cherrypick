@@ -3,16 +3,16 @@
 
   hash pseudo = [
     // another comment
-    "this is just" => "pseudo code",
+    "This is just" => "really nice pseudo code",
     // and another useless comment
-    "and nothing" => "fancy
+    "and really nothing" => "fancy"
   ];
 
   hash code = [
     // this comment is superfluous
-    "anyhow we create" => "another variable",
+    "Anyhow we are creating" => "another hash variable",
     // as well as this one
-    "with another two" => "hash entries"
+    "which also has two" => "hash entries, like the one above"
   ];
 
 }
