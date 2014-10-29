@@ -1,3 +1,4 @@
 {
   string str1 = "FooBar";
+  string str2 = "BarBaz";
 }
