@@ -1,1 +1,18 @@
-empty
+{
+  // just pseudo code that creates two variables
+
+  hash pseudo = [
+    // another comment
+    "this is just" => "pseudo code",
+    // and another useless comment
+    "and nothing" => "fancy
+  ];
+
+  hash code = [
+    // this comment is superfluous
+    "anyhow we create" => "another variable",
+    // as well as this one
+    "with another two" => "hash entries"
+  ];
+
+}
